@@ -1,0 +1,8 @@
+{
+  "title": "TITLE",
+  "status": "STATUS",
+  "monitoring": {
+    "online": "MONITORING_ONLINE",
+    "max": "MONITORING_MAX"
+  }
+}
