@@ -1,0 +1,38 @@
+{
+  "projectName_01": [
+    {
+      "server": "tps_srv.aternos.me",
+      "port": "25565",
+      "title": "Test server 1"
+    },
+    {
+      "server": "tps_srv.aternos.me",
+      "port": "25565",
+      "title": "Test server 2"
+    }
+  ],
+  "projectName_02": [
+    {
+      "server": "tps_srv.aternos.me",
+      "port": "25565",
+      "title": "Test server 1"
+    },
+    {
+      "server": "tps_srv.aternos.me",
+      "port": "25565",
+      "title": "Test server 2"
+    }
+  ],
+  "projectName_03": [
+    {
+      "server": "tps_srv.aternos.me",
+      "port": "25565",
+      "title": "Test server 1"
+    },
+    {
+      "server": "tps_srv.aternos.me",
+      "port": "25565",
+      "title": "Test server 2"
+    }
+  ]
+}
