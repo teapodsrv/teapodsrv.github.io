@@ -6,7 +6,7 @@
       "title": "Test server 1"
     },
     {
-      "server": "tps_srv.aternos.me",
+      "server": "tps_srv_02.aternos.me",
       "port": "25565",
       "title": "Test server 2"
     }
@@ -18,7 +18,7 @@
       "title": "Test server 1"
     },
     {
-      "server": "tps_srv.aternos.me",
+      "server": "tps_srv_02.aternos.me",
       "port": "25565",
       "title": "Test server 2"
     }
@@ -30,7 +30,7 @@
       "title": "Test server 1"
     },
     {
-      "server": "tps_srv.aternos.me",
+      "server": "tps_srv_02.aternos.me",
       "port": "25565",
       "title": "Test server 2"
     }
